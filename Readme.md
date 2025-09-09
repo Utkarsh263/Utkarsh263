@@ -6,7 +6,7 @@
 ### 👨‍💻 About Me  
 - 🌱 I’m currently learning **Data Science & Machine Learning**  
 - 💻 Hands-on with **C, C++, Python, SQL, PL/SQL, JavaScript, HTML, CSS, MySQL**  
-- 📊 Skilled in **Machine Learning (NumPy, Pandas, Seaborn, Scikit-Learn, TensorFlow, Matplotlib)**  
+- 📊 Skilled in **Machine Learning & Deep Learning (NumPy, Pandas, Seaborn, Scikit-Learn, TensorFlow, Matplotlib)**  
 - ⚡ Familiar with **Data Structures & Algorithms, Web Development**  
 - 🛠️ Tools: **Git, PowerBI, VirtualBox, AutoCAD**  
 - 🧠 Strong understanding of **Operating Systems, Computer Networks , Digital Circuit Design, Natural Language Processing  and Large Language Models (LLMs)**  
@@ -66,6 +66,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Utkarsh263/Utkarsh263/main/meme.jpg_large" alt="Coding Meme" width="500"/>
 </p>
+
 
 
 
