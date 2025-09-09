@@ -9,7 +9,7 @@
 - 📊 Skilled in **Machine Learning (NumPy, Pandas, Seaborn, Scikit-Learn, TensorFlow, Matplotlib)**  
 - ⚡ Familiar with **Data Structures & Algorithms, Web Development**  
 - 🛠️ Tools: **Git, PowerBI, VirtualBox, AutoCAD**  
-- 🧠 Strong understanding of **Operating Systems, Digital Circuit Design, and Large Language Models (LLMs)**  
+- 🧠 Strong understanding of **Operating Systems, Digital Circuit Design, Natural Language Processing  and Large Language Models (LLMs)**  
 - 📫 Reach me at **utkarshkohli821@gmail.com**  
 
 ---
@@ -66,5 +66,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Utkarsh263/Utkarsh263/main/meme.jpg_large" alt="Coding Meme" width="500"/>
 </p>
+
 
 
