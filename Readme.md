@@ -1,73 +1,78 @@
-<h1 align="center">Hi 👋, I'm Utkarsh Kohli</h1>
-<h3 align="center">🚀 Data Science Learner | Passionate about Technology | India</h3>
+<!-- Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Utkarsh+Kohli;🚀+Data+Science+Learner;Passionate+about+Technology;Always+learning+new+things" alt="Typing Animation" />
+</p>
+
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Utkarsh263&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
+  <img src="https://img.shields.io/github/followers/Utkarsh263?label=Followers&style=social" alt="followers" />
+  <img src="https://img.shields.io/github/stars/Utkarsh263?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="stars" />
+</p>
 
 ---
 
 ### 👨‍💻 About Me  
-- 🌱 I’m currently learning **Data Science & Machine Learning**  
-- 💻 Hands-on with **C, C++, Python, SQL, PL/SQL, JavaScript, HTML, CSS, MySQL**  
-- 📊 Skilled in **Machine Learning & Deep Learning (NumPy, Pandas, Seaborn, Scikit-Learn, TensorFlow, Matplotlib)**  
-- ⚡ Familiar with **Data Structures & Algorithms, Web Development**  
+- 🌱 Currently learning **Data Science & Machine Learning**  
+- 💻 Proficient in **C, C++, Python, SQL, PL/SQL, JavaScript, HTML, CSS**  
+- 📊 Experience with **ML/DL (NumPy, Pandas, Scikit-Learn, TensorFlow, Matplotlib)**  
 - 🛠️ Tools: **Git, PowerBI, VirtualBox, AutoCAD**  
-- 🧠 Strong understanding of **Operating Systems, Computer Networks , Digital Circuit Design, Natural Language Processing  and Large Language Models (LLMs)**  
-- 📫 Reach me at **utkarshkohli821@gmail.com**  
+- 🧠 Knowledge in **OS, Networks, NLP, LLMs**  
+- 📫 Reach me: **utkarshkohli821@gmail.com**
 
 ---
 
-### 🔧 Languages & Tools  
-<p align="left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/power-bi.png" alt="PowerBI" width="40" height="40"/>
+### 🚀 Languages & Tools  
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,mysql,js,html,css,git,tensorflow,numpy,pandas,powerbi" />
 </p>
 
 ---
 
-### 🏆 Coding Platforms  
-- 🟠 [LeetCode](https://leetcode.com/u/Utkarsh_821/)  
-- 🟢 [HackerRank](https://www.hackerrank.com/profile/utkarshkohli821)  
-- 🔵 [CodeChef](https://www.codechef.com/users/troop_glide_33)  
+### 🏆 Coding Profiles  
+<p align="center">
+  <a href="https://leetcode.com/u/Utkarsh_821/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+  <a href="https://www.hackerrank.com/profile/utkarshkohli821"><img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?&style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/troop_glide_33"><img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?&style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
+</p>
 
 ---
 
-### 📊 GitHub Stats  
-![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Utkarsh263&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh263&layout=compact&theme=tokyonight)
+### 📊 GitHub Analytics  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Utkarsh263&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Utkarsh263&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh263&layout=compact&theme=tokyonight" height="180"/>
+</p>
 
 ---
 
 ### 🔥 Contribution Graph  
-[![Utkarsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Utkarsh263&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Utkarsh263&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+### 🌍 Visitor Map  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Utkarsh263&theme=tokyonight" />
+</p>
 
 ---
 
 ### 🤝 Connect With Me  
-<p align="left">
-  <a href="https://www.linkedin.com/in/utkarsh-kohli-a88481280" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="mailto:utkarshkohli821@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" width="40" height="40"/>
-  </a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/utkarsh-kohli-a88481280"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
+  <a href="mailto:utkarshkohli821@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🎉 Fun Section
+### 🎉 Fun Section  
 <p align="center">
   <img src="https://raw.githubusercontent.com/Utkarsh263/Utkarsh263/main/meme.jpg_large" alt="Coding Meme" width="500"/>
 </p>
-
-
-
-
-
