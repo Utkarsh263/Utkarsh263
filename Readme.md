@@ -16,7 +16,7 @@
 - 🌱 Currently learning **Data Science & Machine Learning**  
 - 💻 Proficient in **C, C++, Python, SQL, PL/SQL, JavaScript, HTML, CSS**  
 - 📊 Experience with **ML/DL (NumPy, Pandas, Scikit-Learn, TensorFlow, Matplotlib)**  
-- 🛠️ Tools: **Git, PowerBI, VirtualBox, AutoCAD**  
+- 🛠️ Tools: **Git, PowerBI, VirtualBox, AutoCAD , Docker , Kubernetes**  
 - 🧠 Knowledge in **OS, Networks, NLP, LLMs**  
 - 📫 Reach me: **utkarshkohli821@gmail.com**
 
@@ -110,3 +110,4 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Utkarsh263/Utkarsh263/main/meme.jpg_large" alt="Coding Meme" width="500"/>
 </p>
+
