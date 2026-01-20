@@ -68,7 +68,7 @@ I’m a **Data Science & Data Analytics learner** focused on converting **raw da
 
 ---
 
-## 🚀 Tech Stack (FULL)
+## 🚀 Tech Stack 
 
 ### 🖥️ Programming Languages
 <p align="center">
@@ -151,3 +151,4 @@ I’m a **Data Science & Data Analytics learner** focused on converting **raw da
 </p>
 
 ---
+
