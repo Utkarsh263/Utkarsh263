@@ -19,7 +19,7 @@ Data Analyst | Aspiring Data Scientist | Machine Learning Enthusiast | Problem S
 
 I’m a **Data Science & Data Analytics learner** focused on converting **raw data into meaningful insights**, building **machine learning models**, and strengthening **problem-solving fundamentals**.
 
-📌 Preparing for **Data Analyst / Data Scientist / ML roles**  
+📌 Preparing for **Data Analyst / Data Scientist / ML roles / SDE roles**  
 📫 **Email:** utkarshkohli821@gmail.com  
 
 ---
@@ -151,4 +151,5 @@ I’m a **Data Science & Data Analytics learner** focused on converting **raw da
 </p>
 
 ---
+
 
