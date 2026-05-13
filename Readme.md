@@ -68,7 +68,7 @@ utkarsh = {
 <tr>
 <td width="50%">
 
-### 💻 Programming & CS Core
+### 💻 Programming and CS Core
 - **C / C++** — DSA, STL, competitive programming
 - **Python** — data analysis, ML, scripting
 - SQL & PL/SQL
